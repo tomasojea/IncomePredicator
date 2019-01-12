@@ -1,0 +1,74 @@
+status: 200
+etag: "ad41-a28-50eb0562"
+content-type: text/html
+server: Apache/1.3.27 (Unix)
+date: Sat, 29 Dec 2018 16:38:13 GMT
+content-location: http://download.three.ie/un/oof.htm
+accept-ranges: bytes
+content-length: 2600
+last-modified: Mon, 07 Jan 2013 17:26:58 GMT
+
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd"><!--SDF 12.0.35.0--><html xmlns="http://www.w3.org/1999/xhtml"><head><title>Error</title><style media="screen" type="text/css">a{color:#000;text-decoration:underline}
+body{width:314px}
+div{text-align:left}
+table{text-align:left;vertical-align:middle;width:100%}
+td{background:#fff;color:#000;padding:0 0 0 4px}
+a:focus,{background-color:yellow;color:black;text-decoration:underline}
+.a{background:#fff;color:#000;padding:0 0.2em}
+.b{vertical-align:middle;width:100%}
+.c{width:25px}
+.d{width:287px}
+.e{color:gray;padding:2px 3px 2px 4px;vertical-align:middle;width:100%}
+
+			body{padding:0px;margin:0px}
+			.txt{padding:2px}
+			.bgBlack{background:#000000; color:black; padding-right:2px; padding-left:2px;}
+
+</style></head><body>
+<div class="a">
+<strong>Out of Credit.</strong><br/><br/>
+Why I'm here?<br/>
+No need to worry. It's probably for one of two simple reasons. Read on and we'll launch you back 
+
+into cyberspace in no time:<br/>
+<br/>
+PrePay Customers.<br/>
+1. Have you run out of top-up credit?<br/>
+You might be seeing this page if you have no top-up credit left. You can check, for free, using 
+
+My3 Account in Planet3 bookmarks. See "My Account Balance". Any credit you have will be shown 
+
+under "Cash Credits".<br/>
+<br/>
+What to do:<br/>
+If you do need credit, you can buy it online. Go to the "Topping Up" section on 
+
+my3account.three.ie where you'll be asked to register your debit or credit card to buy a 
+
+top-up.<br/>
+If you prefer, you can buy your credit in a Three store, or anywhere you see the top-up sign, and 
+
+you'll be good to go.<br/>
+<br/>
+BillPay Customers.<br/>
+1. You have reached your monthly credit limit until your next bill date.
+If you'd like to continue using the internet, you can make an interim bill payment by calling 
+
+1913 free, from any Irish landline or dial +353 83 333 333. You will then be able to use this 
+
+service, at out of bundle rates, until your next bill date.<br/>
+<br/>
+2. Data Roaming is turned off in My3<br/>
+Go to "My Roaming Settings" section in My3 to set the roaming you'd like. Remember any usage 
+
+abroad is not included in your monthly price plan and will be charged.<br/>
+<br/>
+3. Still having problems?<br/>
+Don't worry, just give us a call on 1913 from any Irish landline or dial +353 83 333 333 and 
+
+we'll be happy to help.<br/>
+<br/>
+<a class="h" href="http://mobile.3ireland.ie/account/my3roi/OutofCredit">Click here for more 
+
+information</a><br/>
+</div></body></html>
